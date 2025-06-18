@@ -44,5 +44,5 @@
 📧 carlosacrespos@gmail.com
 
 
-- ⚡ Fun fact: I´m passionate about dog training, boardgames, puzzles, rubiks cubes and chess
+- ⚡ Fun fact: Me apasionan los juegos de mesa, cubos rubik, ajedrez y volleyball
 -->
