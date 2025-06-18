@@ -35,7 +35,7 @@
 🔹 **Weather & Taxi Data** – Validación estadística del impacto de la lluvia en la duración de viajes al aeropuerto.  
 🔹 **Video Game Sales** – Exploración de tendencias globales de ventas para impulsar decisiones de producto por región.
 
-➡️ Explora todos mis proyectos en [github.com/CarlosArturoCrespo]((https://github.com/ArthurSmith25))
+➡️ Explora todos mis proyectos en [github.com/CarlosArturoCrespo]([https://github.com/ArthurSmith25])
 
 ---
 
