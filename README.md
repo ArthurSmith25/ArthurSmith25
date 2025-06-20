@@ -40,7 +40,8 @@
 ---
 
 ### 📫 Conectemos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-smith-453728a3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-smith-453728a3)
+
 📧 carlosacrespos@gmail.com
 
 
