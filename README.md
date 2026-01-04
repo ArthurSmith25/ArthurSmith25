@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Carlos Arturo Crespo Smith 👋</h1>
 
 <p align="center">
-📊 <strong>Sr. Data Analyst | Business Intelligence | Advanced Statistical Analysis</strong>  
+📊 <strong>Data Analyst | Business Intelligence | Advanced Statistical Analysis</strong>  
 </p>
 
 ---
