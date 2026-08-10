@@ -16,7 +16,7 @@ Engineer-turned-Data-Analyst with 5+ years of experience solving the same proble
 
 I'm now focused on **Data Analyst / BI Analyst** roles, remote, on international teams — bringing strong business judgment (stakeholder management, identifying what's actually worth measuring) together with a technical stack I'm actively deepening: intermediate SQL (certifying), Python (Pandas, SciPy, Plotly), and Tableau/Power BI.
 
-Every project below follows the same standard: **no finding ships without being executed and verified against the underlying data.** Where an earlier draft of my own analysis got a conclusion wrong — a regional finding in the Megaline project, an unvalidated revenue claim in the Showz A/B test — I left the correction in the notebook instead of quietly fixing it. That's part of the deliverable, not a flaw in it.
+Every project below is fully executed and verified against real data — the code runs, the numbers check out, and the conclusions are ones I can defend, not just describe.
 
 ---
 
